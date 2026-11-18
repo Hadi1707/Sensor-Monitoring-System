@@ -1,4 +1,4 @@
-package lab5;
+package sensormonitoring;
 
 abstract class Sensor {
 
