@@ -1,4 +1,4 @@
-package lab5;
+package sensormonitoring;
 
 public class TemperatureSensor extends Sensor {
 
